@@ -1,7 +1,7 @@
 - 👋 Hola!, Mi nombre es Cristian Valdez Romero (@cristianvr)
 - 👷🏿‍♂️ Ingeniero electrónico de profesión.
 - ❤️ Amante de la electrónica, robótica, el hardware, el software y todo lo que se puede lograr mezclando un poco de cada cosa.
-- 💪🏿 Creador de CVRELECTRONICA.COM, Motika By Cvr, ManuBoard, MayaBoard entre algunos otros productos.
+- 💪🏿 Creador de CVRELECTRONICA.COM, Motika By Cvr, ManuBoard, MayaBoard, Cuervo By Cvr, entre algunos otros productos.
 - 📫 Para contactarme:
 - 📨 cristian@cvrelectronica.com
 - 📍Cartagena Colombia
